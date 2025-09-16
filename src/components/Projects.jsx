@@ -11,7 +11,7 @@ const projects = [
     title: 'Beauty Shop',
     description: 'A modern beauty products shop with admin management, Google login, M-Pesa payment, and responsive design.',
     tech: ['React', 'Tailwind CSS', 'Firebase', 'Django REST', 'M-Pesa'],
-    link: 'https://github.com/elvis24-tech/beauty-shop',
+    link: 'https://github.com/Elvis24-tech/Cosmetics',
   },
   {
     title: 'Hope Connect',
